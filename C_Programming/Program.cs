@@ -20,6 +20,18 @@ namespace C_Programming
 
                 Leap_year leap_Year = new Leap_year();
                 leap_Year.Leap_Year();
+
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+
+                Console.WriteLine("Powers of Two");
+                Power_Of_2 power_Of_2 = new Power_Of_2();
+                power_Of_2.Pow_2();
+
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
             }
         }
     }
