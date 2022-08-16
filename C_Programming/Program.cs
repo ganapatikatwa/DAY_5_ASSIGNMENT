@@ -37,6 +37,14 @@ namespace C_Programming
 
                 Harmonic obj2 = new Harmonic();
                 obj2.Harmonic1();
+
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+
+                Console.WriteLine("Even Or Odd");
+                EvenOrOdd obj3 = new EvenOrOdd();
+                obj3.Even_Or_Odd();
             }
         }
     }
