@@ -32,6 +32,11 @@ namespace C_Programming
                 Console.WriteLine("");
                 Console.WriteLine("");
                 Console.WriteLine("");
+
+                Console.WriteLine("Harmonic Problem");
+
+                Harmonic obj2 = new Harmonic();
+                obj2.Harmonic1();
             }
         }
     }
